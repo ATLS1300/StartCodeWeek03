@@ -11,7 +11,7 @@ The code will CONTINUE TO RUN (meaning you cannot run it again) when you close t
 '''
 
 import turtle # import the library of commands that you'd like to use
-colormode(255) # so you can use standar RGB values, 0-255
+turtle.colormode(255) # so you can use standar RGB values, 0-255
 
 #Create a panel to draw on. 
 win = Screen()
