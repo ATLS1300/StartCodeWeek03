@@ -7,6 +7,7 @@ Author: YOUR NAME
 DATE
 
 This is a description of what this code does. You should edit this line to get full credit on assignments.
+The code will CONTINUE TO RUN (meaning you cannot run it again) when you close the window!
 '''
 
 import turtle # import the library of commands that you'd like to use
