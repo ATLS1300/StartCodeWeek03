@@ -5,7 +5,7 @@ This week, we'll be drawing on images. When working with images, the file has to
 **You must make sure all images you reference in the code is in the same folder as your script!**
 
 In this repository there are 4 files:
-    - "FullAda_Glam.gif" - A photo of Ada lovelace
-    - "JustAda_Glam.gif" - Another photo of Ada lovelace
-    - Turtle_Start.py - starter code for MP02 and general Turtle shenanigans. Always save as after opening!
-    - Ada_Start.py - starter code for PC02
+-  "FullAda_Glam.gif" - A photo of Ada lovelace
+- "JustAda_Glam.gif" - Another photo of Ada lovelace
+- Turtle_Start.py - starter code for MP02 and general Turtle shenanigans. Always save as after opening!
+- Ada_Start.py - starter code for PC02
